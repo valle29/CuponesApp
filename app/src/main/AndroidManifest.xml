@@ -20,6 +20,7 @@
         <activity
             android:label="Inicio"
             android:name=".app.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
             android:windowSoftInputMode="stateHidden"
             android:screenOrientation="locked"></activity>
 

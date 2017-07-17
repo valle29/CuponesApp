@@ -5,6 +5,7 @@
     <color name="colorAccent">#FF4081</color>
 
     <color name="textColorPrimary">#3e3e3e</color>
+    <color name="textColorPrimaryWhite">#f2f0f0</color>
     <color name="textColorRow">#0fa1a9</color>
     <color name="textColorRow2">#717979</color>
 
